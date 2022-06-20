@@ -1,0 +1,1 @@
+console.log("no importa que te vayas con otras personas");
